@@ -11,7 +11,7 @@
 
 ###
 
-<h6 align="left">📚 I'm currently learning Python and Data Science<br>🎯 Goals: Record the evolution of my knowledge<br>👩‍🎓 Studying Computer Networks at the Federal University of Ceará</h6>
+<h6 align="left">📚 I'm currently learning Python and Data Science<br>🎯 Goals: Record the evolution of my knowledge<br>👩‍🎓 Studying Data Science</h6>
 
 ###
 
