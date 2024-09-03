@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4D2D61&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9844FC&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9771D2&width=435&lines=%F0%9F%91%8BHello!+My+World!+;Be+welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AD14EC&width=435&lines=%F0%9F%91%8BHello+World!+;Be+welcome!)](https://git.io/typing-svg)
 
 
    <h6 align="left">My name is Lívia Oliveira and I'm a studant, from Brazil.</h6>
@@ -36,3 +36,5 @@
 </div>
 
 ###
+
+<img src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif?cid=ecf05e47reflzm0tdj34aqwi1pdgj37db7qscjtngeenhbxd&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
