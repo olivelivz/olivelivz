@@ -11,7 +11,7 @@
 
 ###
 
-<h6 align="left">📚 I'm currently learning Python and Data Science<br>🎯 Goals: Record the evolution of my knowledge<br>👩‍🎓 Studying Data Science</h6>
+<h6 align="left">📚 I'm currently learning Python and Data Science<br>🎯 Goals: Record the evolution of my knowledge<br>👩‍🎓 Computer Engineering student, Data Science autodidact</h6>
 
 ###
 
