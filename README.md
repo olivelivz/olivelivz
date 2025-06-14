@@ -7,7 +7,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left", color=640D5F>About me</h2>
 
 ###
 
