@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9844FC&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=640D5F&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AD14EC&width=435&lines=%F0%9F%91%8BHello+World!+;Be+welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFB200&width=435&lines=%F0%9F%91%8BHello+World!+;Be+welcome!)](https://git.io/typing-svg)
 
 
    <h6 align="left">My name is Lívia Oliveira and I'm a studant, from Brazil.</h6>
