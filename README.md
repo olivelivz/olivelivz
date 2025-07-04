@@ -17,7 +17,6 @@
 
 <h2 align="left">I code with</h2>
 Python, C.
-###
 
 <h6 align="left">Social</h6>
 
